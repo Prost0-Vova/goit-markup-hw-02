@@ -206,15 +206,26 @@ ul {
   color: var(--text-color);
 }
 
+/* What are we doing */
+.what-are-we-doing {
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.1;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: var(--primary-text-color);
+}
+
 /* Our Team */
 .our-team-section {
   background-color: var(--our-team-background-color);
 }
 .our-team-h {
   font-family: "Roboto";
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.1;
   text-align: center;
   letter-spacing: 0.02em;
   color: var(--primary-text-color);
